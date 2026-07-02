@@ -37,11 +37,11 @@ document.addEventListener("DOMContentLoaded", function() {
             </div>
             
             <div class="footer-menu">
-                <a href="countact-us.html" class="footer-menu-link">تواصل معنا</a>
-                <a href="services.html" class="footer-menu-link">خدماتنا</a>
-                <a href="our-project.html" class="footer-menu-link">مشاريعنا</a>
-                <a href="about-us.html" class="footer-menu-link">من نحن</a>
-                <a href="index.html" class="footer-menu-link">الرئيسية</a>
+                <a href="countact-us"" class="footer-menu-link">تواصل معنا</a>
+                <a href="services"" class="footer-menu-link">خدماتنا</a>
+                <a href="our-project"" class="footer-menu-link">مشاريعنا</a>
+                <a href="about-us"" class="footer-menu-link">من نحن</a>
+                <a href="index"" class="footer-menu-link">الرئيسية</a>
             </div>
         </div>
     </footer>
