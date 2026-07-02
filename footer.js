@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 <a href="services"" class="footer-menu-link">خدماتنا</a>
                 <a href="our-project"" class="footer-menu-link">مشاريعنا</a>
                 <a href="about-us"" class="footer-menu-link">من نحن</a>
-                <a href="/"" class="footer-menu-link">الرئيسية</a>
+                <a href="/" class="footer-menu-link">الرئيسية</a>
             </div>
         </div>
     </footer>
